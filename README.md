@@ -131,7 +131,6 @@ You can:
 
 ## Supporters (list sorted alphabetically)
 
-- Mikhail Karnou from Belarus BLR ([LabelMinsk](https://github.com/LabelMinsk))
 - 1995parham from Iran 🇮🇷 ([1995parham](https://github.com/1995parham))
 - 88250 from China 🇨🇳 ([88250](https://github.com/88250))
 - A C Sreedhar Reddy from India 🇮🇳 ([a-c-sreedhar-reddy](https://github.com/a-c-sreedhar-reddy))
@@ -598,6 +597,7 @@ You can:
 - mighty9245 from Russia 🇷🇺
 - Miguel Raz Guzman from Mexico 🇲🇽 ([miguelraz](https://github.com/miguelraz))
 - Mihir Chaturvedi from India 🇮🇳 ([plibither8](https://github.com/plibither8))
+- Mikhail Karnou from Belarus BLR ([LabelMinsk](https://github.com/LabelMinsk))
 - Milad Barazandeh from Iran 🇮🇷 ([miladbarazandeh](https://github.com/miladbarazandeh/))
 - Milad GanjAli from Iran 🇮🇷 ([miladganjali](https://github.com/miladganjali))
 - Milad Nekofar ([nekofar](https://github.com/nekofar))
