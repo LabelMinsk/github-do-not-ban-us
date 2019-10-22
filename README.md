@@ -131,6 +131,7 @@ You can:
 
 ## Supporters (list sorted alphabetically)
 
+- Mikhail Karnou from Belarus BLR ([LabelMinsk](https://github.com/LabelMinsk))
 - 1995parham from Iran 🇮🇷 ([1995parham](https://github.com/1995parham))
 - 88250 from China 🇨🇳 ([88250](https://github.com/88250))
 - A C Sreedhar Reddy from India 🇮🇳 ([a-c-sreedhar-reddy](https://github.com/a-c-sreedhar-reddy))
